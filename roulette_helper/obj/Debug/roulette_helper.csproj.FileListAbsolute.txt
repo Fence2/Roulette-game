@@ -1,0 +1,10 @@
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\bin\Debug\roulette_helper.exe.config
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\bin\Debug\roulette_helper.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\bin\Debug\roulette_helper.pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.Form1.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.Properties.Resources.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.csprojAssemblyReference.cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\roulette_helper\roulette_helper\obj\Debug\roulette_helper.csproj.CoreCompileInputs.cache
